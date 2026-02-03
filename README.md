@@ -1,143 +1,127 @@
-# Hi, I'm Peter 👋
+# Hi, I'm junye 👋
 
-📍 **Vienna ↔ London** | 🤖 **Polyagentmorous builder** | 🚀 **Ex-PSPDFKit Founder**
+📍 **Freelance Developer** | 🤖 **AI Product Builder** | 🚀 **Full-Stack Specialist**
 
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
-![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
-![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/-SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white)
-![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![AI Agents](https://img.shields.io/badge/-AI%20Agents-FF6F61?style=flat-square&logo=openai&logoColor=white)
 
-> Deep in vibe-coding mode – building AI-powered developer tools at ludicrous speed. After 13+ years shipping native iOS, modern web feels like a breath of fresh air.
-
-🍭 **[sweetistics.com](https://sweetistics.com/)** (closed source) – AI-powered Twitter platform with analytics/ops stack.
-
-## Current Projects
-
-- 🦞 **[OpenClaw](https://github.com/openclaw/openclaw)** - the AI that actually does things
-- 🚇 **[VibeTunnel](https://github.com/amantus-ai/vibetunnel)** - Turn any browser into your terminal; command agents from the road (vt.sh)
-- 🎚️ **[CodexBar](https://github.com/steipete/CodexBar)** - May your tokens never run out—keep agent limits in view.
-- 🚀 **[Peekaboo](https://github.com/steipete/Peekaboo)** - Lightning-fast macOS screenshots & GUI automation (MCP + CLI)
-- 👉 **[summarize](https://github.com/steipete/summarize)** - Point at any URL or file. Get the gist.
-- 🚦 **[RepoBar](https://github.com/steipete/RepoBar)** - CI, PRs, releases—at a glance
-- 🧭 **[go-cli](https://github.com/steipete/gogcli)** - Google in your terminal (`gog`) (Gmail, Calendar, Drive, Contacts, Tasks, Sheets, Docs, Slides, People)
-- 👻 **[Poltergeist](https://github.com/steipete/poltergeist)** - The ghost that keeps your builds fresh—universal hot reload & file watcher
-- 🗃️ **[wacli](https://github.com/steipete/wacli)** - WhatsApp CLI: sync, search, send
-- 🗣️ **[sag](https://github.com/steipete/sag/)** - ElevenLabs speech with mac-style `say` UX; streams to speakers by default
-- 🎙️ **[Brabble](https://github.com/steipete/brabble)** - Wake-word voice daemon for macOS; transcribes locally and fires configurable hooks
-- 🔊 **[sonoscli](https://github.com/steipete/sonoscli)** - Control Sonos speakers: discover, group, queue, play Spotify
-- 📣 **[ElevenLabsKit](https://github.com/steipete/ElevenLabsKit)** - ElevenLabs voices on tap—SwiftPM-friendly, streaming-native.
-- 📍 **[goplaces](https://github.com/steipete/goplaces)** - Google Places API (New) client + CLI
-- 🧲 **[gifgrep](https://github.com/steipete/gifgrep)** - GIF search for terminals: CLI output + TUI with inline previews
-- 📸 **[camsnap](https://github.com/steipete/camsnap)** - RTSP snapshots, clips, motion CLI (Tapo-friendly)
-- 🎧 **[spogo](https://github.com/steipete/spogo)** - Spotify, but make it terminal
-- 🛵 **[ordercli](https://github.com/steipete/ordercli)** - Your takeout timeline, in the terminal
-- 🫐 **[blucli](https://github.com/steipete/blucli)** - Play, group, and automate BluOS
-- 🤖 **[macOS Automator MCP](https://github.com/steipete/macos-automator-mcp)** - Your Friendly Neighborhood RoboScripter™
-- 🧑‍💻 **[Claude Code MCP](https://github.com/steipete/claude-code-mcp)** - One-shot MCP server for Claude Code (an agent inside your agent)
-- 🧙‍♂️ **[AXorcist](https://github.com/steipete/AXorcist)** - The power of Swift compels your UI to obey!
-- 🕸️ **[Tachikoma](https://github.com/steipete/Tachikoma)** - Modern Swift AI SDK
-- 🎚️ **[CodexBar](https://github.com/steipete/CodexBar)** - May your tokens never run out—keep agent limits in view.
-- 🧮 **[tokentally](https://github.com/steipete/tokentally)** - One tiny lib for LLM token + cost math
-- ⏳ **[osc-progress](https://github.com/steipete/osc-progress)** - Tiny lib for OSC 9;4 terminal progress.
-- ✂️ **[Trimmy](https://github.com/steipete/Trimmy)** - “Paste once, run once” — flattens multi-line shell snippets so they execute
-- 🖥️ **[TauTUI](https://github.com/steipete/TauTUI)** - Swift-native TUI that won’t tear
-- 🎛️ **[Commander](https://github.com/steipete/Commander)** - Swift-first parsing, zero forks
-- 📝 **[remindctl](https://github.com/steipete/remindctl)** - Apple Reminders from the terminal
-- 🧳 **[mcporter](https://github.com/steipete/mcporter)** - Call MCPs from TypeScript or package them as a CLI
-- 🍪 **[Sweet Cookie](https://github.com/steipete/sweet-cookie)** - Inline-first browser cookie extraction—no native addons
-- 🧁 **[SweetCookieKit](https://github.com/steipete/SweetCookieKit)** - Native macOS cookie extraction for Safari, Chromium, and Firefox
-- 🍭 **[sweetlink](https://github.com/steipete/sweetlink)** - Playwright vibes in your current tab; close the agent loop
-- 🐦 **[bird](https://github.com/steipete/bird)** - Fast X CLI for tweeting, replying, and reading
-- 🧿 **[oracle](https://github.com/steipete/oracle)** - Whispering your tokens to the silicon sage
-- 👀 **[tmuxwatch](https://github.com/steipete/tmuxwatch)** - Lightweight TUI to watch tmux sessions
-- 📜 **[agent-rules](https://github.com/steipete/agent-rules)** - Shared rules/knowledge for coding with agents
-- 🎨 **[Markdansi](https://github.com/steipete/Markdansi)** - Wraps, colors, links—no baggage.
-- 📖 **[llm.codes](https://github.com/amantus-ai/llm-codes)** - Transform developer documentation for AI agents
-- 📊 **[Stats Store](https://github.com/steipete/stats-store)** - Fast, privacy-first analytics for Sparkle (stats.store)
-- 🧽 **[Demark](https://github.com/steipete/demark)** - Mark My Words, HTML to Markdown!
-- 🛏️ **[eightctl](https://github.com/steipete/eightctl)** - Control your sleep, from the terminal
-- 💬 **[imsg](https://github.com/steipete/imsg)** - Send, read, stream iMessage & SMS
-- 🍺 **[homebrew-tap](https://github.com/steipete/homebrew-tap)** - Brew tap for shipping my CLI tools fast
-### Legacy Work
-- 🔄 **[CodeLooper](https://github.com/steipete/CodeLooper)** - macOS menubar app for Cursor workflow monitoring and automation
-- 🧩 **[InterposeKit](https://github.com/steipete/InterposeKit)** - Modern Swift method swizzling
-- 🪝 **[Aspects](https://github.com/steipete/Aspects)** - AOP for Objective-C (10k+ stars)
-- 📄 **[PSPDFKit](https://pspdfkit.com)** - Industry-leading PDF SDK ([exited 2021](https://techcrunch.com/2021/10/01/pspdfkit-raises-116m-its-first-outside-money-now-nearly-1b-people-use-apps-powered-by-its-collaboration-signing-and-markup-tools/))
-- 🛑 **[Terminator MCP](https://github.com/steipete/Terminator)** - I'll be back... with your terminal output!
-- 🪢 **[Conduit MCP](https://github.com/steipete/conduit-mcp)** - Purr-fect MCP server for feline-fast file ops, web prowling, and data hunting
-- 🛡️ **[XC Sentinel](https://github.com/steipete/xcsentinel)** - Intelligent Xcode automation with incremental builds and AI-friendly output
-- 🍵 **[Matcha](https://github.com/steipete/Matcha)** - Swift port of Bubble Tea TUI framework
-- 🌡️ **[VibeMeter](https://github.com/steipete/vibemeter)** - Archived: AI cost tracker for Cursor/OpenAI (vibemeter.ai)
-
-
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/steipete)
-
-## What I'm Doing
-
-- **Living in the future** - Learning and building tools to make agentic engineering faster for everyone
-- **Writing about AI workflows** - Sharing my learnings on [steipete.me](https://steipete.me)
-- **Rapid prototyping** - Full apps in days, not months
-- **[Speaking at conferences](https://github.com/steipete/speaking)** - On vibe coding vs agentic engineering and the future of development
-
-## Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Claude Code Anonymous](https://steipete.me/posts/2025/claude-code-anonymous)
-- [Live Coding Session: Building Arena](https://steipete.me/posts/2025/live-coding-session-building-arena)
-- [Peekaboo 2.0 – Free the CLI from its MCP shackles](https://steipete.me/posts/2025/peekaboo-2-freeing-the-cli-from-its-mcp-shackles)
-- [My AI Workflow for Understanding Any Codebase](https://steipete.me/posts/2025/understanding-codebases-with-ai-gemini-workflow)
-- [VibeTunnel: Turn Any Browser into Your Mac's Terminal](https://steipete.me/posts/2025/vibetunnel-turn-any-browser-into-your-mac-terminal)
-<!-- BLOG-POST-LIST:END -->
-
-## Connect
-
-[![Twitter](https://img.shields.io/badge/-@steipete-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/steipete)
-[![Mastodon](https://img.shields.io/badge/-@steipete-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.social/@steipete)
-[![Bluesky](https://img.shields.io/badge/-steipete.me-00A8E8?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/steipete.me)
-[![Blog](https://img.shields.io/badge/-steipete.me-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://steipete.me)
-[![LinkedIn](https://img.shields.io/badge/-Peter_Steinberger-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steipete)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/steipete)
+> Dedicated to building efficient, AI-powered tools and engaging web experiences. I love transforming complex ideas into simple, beautiful, and functional products.
 
 ---
 
-### Recognition
+## 🤖 AI & Productivity Tools
 
-- Featured in **[The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/software-engineering-with-llms-in-2025)** newsletter
-- International speaker ([See my talks](https://github.com/steipete/speaking))
-- 15k+ GitHub stars across projects
-- Bootstrapped PSPDFKit to millions in ARR before exit
+- ⏳ **[MyTimeline](https://mytimeline.top)** - Visualize and share life events and historical timelines with beautiful interactive charts.
+- 🪄 **[AnyGenerator](https://anygenerator.top)** - A multi-functional AI platform for generating text, images, and creative content.
+- 💬 **[ChatMoreLLM](https://chatmorellm.org)** - A unified AI chat interface supporting multiple leading Large Language Models.
+- ⚖️ **[ModelCompare](https://modelcompare.top)** - A benchmarking platform for comparing outputs and performance across various AI models.
+- 📍 **[PromptTool](https://prompttool.top)** - Expert prompt management system to optimize and engineer AI interactions.
+- 🛠️ **[AGI Skills](https://agiskills.org)** - A centralized hub for managing and discovering autonomous AI agent capabilities.
+- 🌐 **[LJS Fanyi](https://translator.lijiashun.top)** - High-performance batch translation platform with multi-model AI support.
+- 📑 **[BatchTranslate](https://batchtranslate.top)** - Streamlined solution for translating large volumes of text and multiple files.
+- 📈 **[LJS SEO](https://seo.lijiashun.top)** - Professional SEO toolkit for keyword analysis, tracking, and web optimization.
+- 🔍 **[GKeywordSuggest](https://gkeywordsuggest.top)** - Smart keyword suggestion tool to boost search visibility and rankings.
+- 📅 **[DateCalculation](https://datecalculation.top)** - Precise utility for calculating date intervals, deadlines, and time differences.
+- 📔 **[BibleReadPlan](https://biblereadplan.top)** - Personalized reading plans for daily spiritual growth and study.
+- ⌨️ **[GoFastEditor](https://github.com/ljs418698976/golangeditor)** - A high-performance, lightweight desktop editor for the Go programming language.
+- 🛡️ **[BackToYoung](https://backtoyoung.com)** - AI-powered photo restoration tool that reverses aging effects with high precision.
 
-### Media
+---
 
-- **[How to Code 20x Faster with Claude Code](https://www.youtube.com/watch?v=JGxyrPkAKiY&t=2s)** - Detailed walkthrough of my AI-native development workflow
-- **[Inside Apple's AI Fail](https://www.podcast.de/episode/689639265/inside-apples-ai-fail-mit-peter-steinberger)** - German podcast discussing Apple Intelligence
-- **[AI Native Development Interview](https://www.youtube.com/watch?v=fu7th5HiADo)** - Deep dive into vibe coding and the future of software development
-- **[Arena Live Build – Full Session](https://www.youtube.com/watch?v=z2IDQbNOS5s)** - Live coding session showing the full Arena build process
-- **[Claude 3 Sonnet 'Funeral' in San Francisco](https://www.wired.com/story/claude-3-sonnet-funeral-san-francisco/)** - WIRED article featuring the memorial for Claude 3.5 Sonnet ([no paywall](https://gist.github.com/steipete/8344756e51df68406eb5302d4c19d6ea))
+## 🎨 Web & Media Utilities
 
-### Model Status
+- 🔗 **[URLtoAny](https://urltoany.org)** - Transform any URL into Markdown, PDF, Image, or clean HTML instantly.
+- 🎬 **[Sora2WatermarkRemover](https://sora2watermarkremover.top)** - Advanced AI tool for removing watermarks from videos and images.
+- 🎨 **[ManhuaAI](https://manhuaai.top)** - AI-assisted platform that turns ideas into professional manga and comic art.
+- 📸 **[OldPhotoRestoration](https://oldphotorestoration.top)** - Deep learning service to restore and colorize damaged historical photos.
+- 🎵 **[LyricsGenerator](https://lyricsgenerator.top)** - AI-driven creative tool for generating perfect song lyrics and poems.
+- 📝 **[Markdown Word](https://markdowntoword.top)** - Professional converter for turning Markdown documents into Word and PDF.
+- 📑 **[Markdown Men](https://markdown.men)** - A simple, effective web-based Markdown editor and previewer.
+- 📜 **[Gushi](https://gushi.lijiashun.top)** - An interactive portal for exploring and learning classical Chinese poetry.
+- 🔭 **[NanoBananaAI](https://nanobananaai.top)** - Innovative AI playground for creative media experiments and wackiness.
+- 🎞️ **[VideoScript](https://videoscript.top)** - AI-powered writer for social media scripts, YouTube, and TikTok.
+- 🗂️ **[ToolDirectory](https://tooldirectory.top)** - A curated navigation directory for discovering the best online resources.
+- 🤝 **[WPlaceLive](https://wplacelive.top)** - Real-time collaborative platform for team workspace visualization.
+- 📽️ **[Veo31](https://veo31.top)** - Specialized AI toolkit for advanced video processing and creative management.
+- 💼 **[Kiveo](https://kiveo.org)** - A premium creator platform for project showcases and professional management.
+- ✨ **[Sileme](https://sileme.org)** - Collaborative utility platform for modern development workflows.
 
-- **What model is Peter using?** Check the live blurb at [whatmodelispeterusing.com](https://whatmodelispeterusing.com)
+---
 
-### Philosophy
+## 🎮 Gaming & Fun Experiences
 
-> "Ship beats perfect" - I build tools to solve my own problems, then share them with the world. Currently exploring how AI changes everything about software development.
+- 🕹️ **[GameHub](https://gamehub.top)** - A premium portal featuring thousands of high-quality, instant-play web games.
+- 🧩 **[PlayPuzzle](https://playpuzzle.top)** - A challenging collection of brain-teasing logic, math, and word puzzles.
+- 🐾 **[AnimalGenerator](https://animalgenerator.top)** - Create unique and artistic animal characters using advanced AI generation.
+- 🗻 **[GhibliStyle](https://ghiblistyle.top)** - Transform your photos into the magical art style of Studio Ghibli.
+- ⏰ **[PaycheckClock](https://paycheckcalculation.top)** - A productivity clock designed specifically for hardworking developers.
+- 🟦 **[SquareFace](https://squareface-generator.com)** - Simple and fun utility for creating stylized cubic-faced avatars.
+- 🤪 **[TikTokEmoji](https://tiktokemojicodes.top)** - Discover and generate custom emojis and hidden social media codes.
+- 💚 **[BratGenerator](https://bestbratgenerator.com)** - Create trendy text and images inspired by iconic pop culture aesthetics.
+- 📊 **[CrazyGamesData](https://crazygamesdata.com)** - Comprehensive analytics and insights for the web gaming ecosystem.
+- 🖼️ **[FunnyGifs](https://funnygifs.org)** - A curated gallery of the web's most hilarious animated GIFs.
+- 🖥️ **[SplitScreen](https://splitscreen.top)** - Maximize multitasking with this easy-to-use online split-screen tool.
+- 🏰 **[TheGameIndex](https://thegameindex.com)** - The ultimate database for searching and discovering your next favorite game.
+- 🏗️ **[GameWeb Generator](https://gamewebgenerator.com)** - Landing page generator for indie game developers and studios.
+- 📐 **[PixelFlowLevel](https://pixelflowlevel.pro)** - Professional tool for designing intricate game levels and flows.
+
+---
+
+## 🕹️ Game Library (Instant Web Games)
+
+- ⚔️ **[Anime Vanguards](https://anime-vanguards.online)** - Strategic anime tower defense and battle action.
+- 🍜 **[Shawarma Kiosk](https://shawarmakiosk.top)** - Addictive street food shop management simulator.
+- 🍱 **[Brother Hai's Restaurant](https://brotherhaisphorestaurant.top)** - Fun and fast-paced restaurant management game.
+- 🎒 **[Moonlighter Online](https://moonlighter.online)** - Action-packed dungeon exploration and shopkeeping.
+- ⚔️ **[Pixel Blade](https://pixelblade.online)** - Retro-style hack and slash action adventure.
+- 🏎️ **[Poly Track](https://polytrackgame.online)** - High-speed physics-based polygonal racing.
+- 🐑 **[Raise Animals](https://raiseanimals.online)** - Relaxing pet-raising and farm management simulator.
+- 🌲 **[Rue Valley](https://ruevalleygame.com)** - Narrative-driven adventure in a mysterious valley.
+- 🚗 **[RV There Yet?](https://rvthereyetgame.com)** - Humorous road-trip survival and exploration.
+- 📸 **[Shutter Story](https://shutterstory.online)** - A poignant story told through captured moments.
+- 🏚️ **[The Last Caretaker](https://thelastcaretakergame.com)** - Atmospheric post-apocalyptic survival adventure.
+- 🏮 **[Where Winds Meet](https://wherewindsmeetgame.online)** - Epic Wuxia adventure set in ancient China.
+- 🎡 **[Dandy's World](https://dandysworld.top)** - Whimsical and colorful exploration adventure.
+- 🎖️ **[Anime Last Stand](https://animelaststandgame.top)** - Ultimate anime-inspired tactical battle game.
+- 🔫 **[Arc Raiders](https://arcraidersgame.top)** - Sci-fi cooperative shooter and survival experience.
+- 📦 **[Dispatch Game](https://dispatchgame.top)** - Fast-paced logistics and delivery management simulator.
+- ☢️ **[Fallout 4 Anniversary](https://fallout4anniversarygame.com)** - Fan-tribute exploration and survival game.
+- 🎮 **[Casual Games](https://casualgames.top)** - A relaxing collection of hyper-casual web games.
+
+---
+
+## 🛠️ Infrastructure & Core
+
+- 💎 **[LijiaShun Portfolio](https://lijiashun.top)** - My personal portfolio and developer hub.
+- 🔌 **[LJS Plugin](https://plugin.lijiashun.top)** - A management hub for custom browser and system plugins.
+
+---
+
+## 📊 GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/ljs418698976)
+
+---
+
+## 📬 Connect
+
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ljs418698976)
+
+---
+
+### 💡 Philosophy
+
+> "Code to create, build to solve." - I believe in the power of small, focused tools to solve real-world problems.
 
 <details>
 <summary>Random Facts</summary>
 
-- Treat AI agents as "slot machines for programmers"
-- Run 3-6 Claude instances concurrently
-- Powered by Vienna coffee culture
-- Gym enthusiast (when not coding)
-- Coaches LGBTQ+ folks at [Out In Tech](https://outintech.com/)
+- AI enthusiast and prompt engineer
+- Passionate about clean UI/UX
+- Continuous learner in the evolving AI landscape
+- Built 50+ projects in record time
 
 </details>
