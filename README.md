@@ -48,6 +48,7 @@
 - 📽️ **[Veo31](https://veo31.top)** - Specialized AI toolkit for advanced video processing and creative management.
 - 💼 **[Kiveo](https://kiveo.org)** - A premium creator platform for project showcases and professional management.
 - ✨ **[Sileme](https://sileme.org)** - Collaborative utility platform for modern development workflows.
+- ✨ **[ResumeTemplate](https://resumetemplate.men)** - Professional Resume Template for Your Next Career Move.
 
 ---
 
